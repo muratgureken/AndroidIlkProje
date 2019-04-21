@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_name">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+    </string-array>
+
+    <string-array name="array_veri">
+        <item>Veri1</item>
+        <item>Veri2</item>
+        <item>Veri3</item>
+        <item>Veri4</item>
+        <item>Veri5</item>
+    </string-array>
+</resources>
